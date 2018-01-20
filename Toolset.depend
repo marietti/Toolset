@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516407167 source:c:\c++ projects\wxforms\toolset\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<vector>
+
